@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/prompto/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/prompto/static/js/main.f1d210a6.chunk.js",
-    "main.js.map": "/prompto/static/js/main.f1d210a6.chunk.js.map",
-    "runtime-main.js": "/prompto/static/js/runtime-main.480fe46a.js",
-    "runtime-main.js.map": "/prompto/static/js/runtime-main.480fe46a.js.map",
-    "static/js/2.a314495d.chunk.js": "/prompto/static/js/2.a314495d.chunk.js",
-    "static/js/2.a314495d.chunk.js.map": "/prompto/static/js/2.a314495d.chunk.js.map",
-    "static/js/3.3e0405f8.chunk.js": "/prompto/static/js/3.3e0405f8.chunk.js",
-    "static/js/3.3e0405f8.chunk.js.map": "/prompto/static/js/3.3e0405f8.chunk.js.map",
+    "main.css": "/prompto/static/css/main.4249ecae.chunk.css",
+    "main.js": "/prompto/static/js/main.c6d28f18.chunk.js",
+    "main.js.map": "/prompto/static/js/main.c6d28f18.chunk.js.map",
+    "runtime-main.js": "/prompto/static/js/runtime-main.3f197cf2.js",
+    "runtime-main.js.map": "/prompto/static/js/runtime-main.3f197cf2.js.map",
+    "static/css/2.1772c741.chunk.css": "/prompto/static/css/2.1772c741.chunk.css",
+    "static/js/2.417b9a8b.chunk.js": "/prompto/static/js/2.417b9a8b.chunk.js",
+    "static/js/2.417b9a8b.chunk.js.map": "/prompto/static/js/2.417b9a8b.chunk.js.map",
+    "static/js/3.e4290619.chunk.js": "/prompto/static/js/3.e4290619.chunk.js",
+    "static/js/3.e4290619.chunk.js.map": "/prompto/static/js/3.e4290619.chunk.js.map",
     "index.html": "/prompto/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/prompto/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a314495d.chunk.js.LICENSE.txt": "/prompto/static/js/2.a314495d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/prompto/static/media/logo.6ce24c58.svg"
+    "static/css/2.1772c741.chunk.css.map": "/prompto/static/css/2.1772c741.chunk.css.map",
+    "static/css/main.4249ecae.chunk.css.map": "/prompto/static/css/main.4249ecae.chunk.css.map",
+    "static/js/2.417b9a8b.chunk.js.LICENSE.txt": "/prompto/static/js/2.417b9a8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.480fe46a.js",
-    "static/js/2.a314495d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f1d210a6.chunk.js"
+    "static/js/runtime-main.3f197cf2.js",
+    "static/css/2.1772c741.chunk.css",
+    "static/js/2.417b9a8b.chunk.js",
+    "static/css/main.4249ecae.chunk.css",
+    "static/js/main.c6d28f18.chunk.js"
   ]
 }
