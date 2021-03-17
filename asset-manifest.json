@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/prompto/static/css/main.463b5e27.chunk.css",
-    "main.js": "/prompto/static/js/main.bdf429dc.chunk.js",
-    "main.js.map": "/prompto/static/js/main.bdf429dc.chunk.js.map",
+    "main.css": "/prompto/static/css/main.25774a3c.chunk.css",
+    "main.js": "/prompto/static/js/main.c4a973e4.chunk.js",
+    "main.js.map": "/prompto/static/js/main.c4a973e4.chunk.js.map",
     "runtime-main.js": "/prompto/static/js/runtime-main.3f197cf2.js",
     "runtime-main.js.map": "/prompto/static/js/runtime-main.3f197cf2.js.map",
     "static/css/2.1772c741.chunk.css": "/prompto/static/css/2.1772c741.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e4290619.chunk.js.map": "/prompto/static/js/3.e4290619.chunk.js.map",
     "index.html": "/prompto/index.html",
     "static/css/2.1772c741.chunk.css.map": "/prompto/static/css/2.1772c741.chunk.css.map",
-    "static/css/main.463b5e27.chunk.css.map": "/prompto/static/css/main.463b5e27.chunk.css.map",
+    "static/css/main.25774a3c.chunk.css.map": "/prompto/static/css/main.25774a3c.chunk.css.map",
     "static/js/2.417b9a8b.chunk.js.LICENSE.txt": "/prompto/static/js/2.417b9a8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f197cf2.js",
     "static/css/2.1772c741.chunk.css",
     "static/js/2.417b9a8b.chunk.js",
-    "static/css/main.463b5e27.chunk.css",
-    "static/js/main.bdf429dc.chunk.js"
+    "static/css/main.25774a3c.chunk.css",
+    "static/js/main.c4a973e4.chunk.js"
   ]
 }
